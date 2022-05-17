@@ -1,4 +1,4 @@
-The Rainbow and the unicorn
+The Rainbow, the unicorn, and the poni
 
 Purple
 Pink
@@ -7,7 +7,9 @@ Orange
 Blue
 Green
 Unicorn
+Indigo
 Red
 
 These are the colours of the rainbow
 And the unicorn
+Poni
